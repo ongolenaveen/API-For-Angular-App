@@ -1,0 +1,5 @@
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Contracts\bin\Debug\SwordTestApi.Contracts.dll
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Contracts\bin\Debug\SwordTestApi.Contracts.pdb
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Contracts\obj\Debug\SwordTestApi.Contracts.csproj.CoreCompileInputs.cache
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Contracts\obj\Debug\SwordTestApi.Contracts.dll
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Contracts\obj\Debug\SwordTestApi.Contracts.pdb

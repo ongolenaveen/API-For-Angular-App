@@ -1,0 +1,9 @@
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\bin\Debug\SwordTestApi.Services.dll
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\bin\Debug\SwordTestApi.Services.pdb
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\bin\Debug\SwordTestApi.Contracts.dll
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\bin\Debug\SwordTestApi.Contracts.pdb
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\obj\Debug\SwordTestApi.Services.csprojResolveAssemblyReference.cache
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\obj\Debug\SwordTestApi.Services.csproj.CoreCompileInputs.cache
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\obj\Debug\SwordTestApi.Services.csproj.CopyComplete
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\obj\Debug\SwordTestApi.Services.dll
+C:\SwordTestApi\SwordTestApi\SwordTestApi.Services\obj\Debug\SwordTestApi.Services.pdb
